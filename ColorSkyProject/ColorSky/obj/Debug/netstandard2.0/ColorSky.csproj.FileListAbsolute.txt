@@ -1,0 +1,10 @@
+C:\Users\kille\source\repos\ColorSky\ColorSky\bin\Debug\netstandard2.0\ColorSky.deps.json
+C:\Users\kille\source\repos\ColorSky\ColorSky\bin\Debug\netstandard2.0\ColorSky.dll
+C:\Users\kille\source\repos\ColorSky\ColorSky\bin\Debug\netstandard2.0\ColorSky.pdb
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.csproj.AssemblyReference.cache
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.AssemblyInfoInputs.cache
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.AssemblyInfo.cs
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.csproj.CoreCompileInputs.cache
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.dll
+C:\Users\kille\source\repos\ColorSky\ColorSky\obj\Debug\netstandard2.0\ColorSky.pdb

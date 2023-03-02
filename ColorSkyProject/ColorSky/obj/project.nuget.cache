@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCITiMWWSNCdbPyHGOrDt16IQP8h2E1kNxQzU7M0/X4Es8I8YajIhgSx4UEaZwgfqVICDAoGWJK0B7Rl/1azCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kille\\source\\repos\\ColorSky\\ColorSky\\ColorSky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kille\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kille\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kille\\.nuget\\packages\\unitymodstudio.build\\1.1.9\\unitymodstudio.build.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
