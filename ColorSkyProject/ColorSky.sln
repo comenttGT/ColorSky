@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSky", "ColorSky\ColorSky.csproj", "{98DADD76-FD4A-4650-A1CF-E81E0D6AC184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DADD76-FD4A-4650-A1CF-E81E0D6AC184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DADD76-FD4A-4650-A1CF-E81E0D6AC184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DADD76-FD4A-4650-A1CF-E81E0D6AC184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DADD76-FD4A-4650-A1CF-E81E0D6AC184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2148066B-9585-494E-A562-BD566B4F06F6}
+	EndGlobalSection
+EndGlobal
